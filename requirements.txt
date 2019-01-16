@@ -1,0 +1,7 @@
+Flask
+gunicorn
+werkzeug
+nltk
+flask-cors
+python-docx
+Pillow
